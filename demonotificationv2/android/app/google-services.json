@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "392287617400",
+    "firebase_url": "https://test-firebase-2edf6.firebaseio.com",
+    "project_id": "test-firebase-2edf6",
+    "storage_bucket": "test-firebase-2edf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392287617400:android:6c6f3005ef87fd4826c88d",
+        "android_client_info": {
+          "package_name": "com.example.demonotificationv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392287617400-lij4ksn7h7hk9columijcpolpv1uncl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHOtaa25fLKIKugZI0bG2XzQT6qyvXik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392287617400-lij4ksn7h7hk9columijcpolpv1uncl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392287617400:android:d984fc969e7af30126c88d",
+        "android_client_info": {
+          "package_name": "xuanha.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392287617400-lij4ksn7h7hk9columijcpolpv1uncl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHOtaa25fLKIKugZI0bG2XzQT6qyvXik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392287617400-lij4ksn7h7hk9columijcpolpv1uncl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

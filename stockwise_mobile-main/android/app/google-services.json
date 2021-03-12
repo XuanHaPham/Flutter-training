@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "16332129345",
+    "firebase_url": "https://stockwise-f24fe.firebaseio.com",
+    "project_id": "stockwise-f24fe",
+    "storage_bucket": "stockwise-f24fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16332129345:android:f28ed3b3bb003c5efbb2c0",
+        "android_client_info": {
+          "package_name": "com.apheleia.stockwise_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16332129345-7uo83o1f6cvjmgcdnmi2cg5dotc0lsie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apheleia.stockwise_mobile",
+            "certificate_hash": "7a8ac0c5249797d63d8625af93e822ab29acf20f"
+          }
+        },
+        {
+          "client_id": "16332129345-teq5ooanvq9l255k0hdmeajbgucqqbgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apheleia.stockwise_mobile",
+            "certificate_hash": "ad0239f08692a5b1f0c6ae91e92038a19198d4cf"
+          }
+        },
+        {
+          "client_id": "16332129345-gd7jq8q2avh50e9ofcpktdmb918g5fmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByofPGyRyrRMXaICOezMHWd5cISFHBZks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16332129345-gd7jq8q2avh50e9ofcpktdmb918g5fmr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "16332129345-dkkhg6mn7bqp319m1iaf2pc2fd7ikv8p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apheleia.stockwiseMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

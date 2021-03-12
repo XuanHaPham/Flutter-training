@@ -1,0 +1,7 @@
+linter:
+  rules:
+    unnecessary_brace_in_string_interps: false
+
+analyzer:
+  errors:
+    missing_required_param: error
